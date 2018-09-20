@@ -1,0 +1,45 @@
+.conisi {
+  margin-bottom: 120px;
+}
+
+.layer1 {
+  width: 550px;
+  height: 200px;
+  /* float: right; */
+  margin-left: 20px;
+  /* background-color: ligh tblue; */
+}
+
+.layer2 {
+  width: 550px;
+  height: 200px;
+  float: right;
+  margin-right: 20px;
+  /* background-color: lightgreen; */
+
+}
+
+.blox {
+  width: 200px;
+  float: left;
+}
+
+.clox {
+  width: 200px;
+  float: right;
+}
+
+.layer1 > .clox{
+  float: left;
+  margin-left: 20px;
+}
+
+.layer2 > .blox{
+  width: 330px;
+  text-align: right;
+}
+
+.avatar > img {
+  width: 200px;
+  height: 200px;
+}

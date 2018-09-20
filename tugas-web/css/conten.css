@@ -1,0 +1,15 @@
+.title_j {
+  color: red;
+  text-align: center;
+}
+.title_b {
+  text-align: center;
+  color: white;
+}
+
+.conten {
+  width: 99.3%;
+  margin: 0px auto 0px auto;
+  border: 5px solid #000000;
+  background-color: #1A1A1A;
+}

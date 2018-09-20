@@ -1,0 +1,32 @@
+body {
+  color: #ffffff;
+  background-color: #ffffff;
+  background-attachment:fixed;
+  background-position: center;
+  font-family: Arial;
+  line-height: 1.4em;
+  margin: 0px;
+}
+
+hgroup {
+  margin-top: 40px;
+}
+
+a {
+  text-decoration: none;
+}
+
+footer {
+  font-size: 80%;
+  padding: 7px 0px 0px 20px;
+  background-color: #1A1A1A;
+}
+
+table {
+  border-collapse: collapse;
+  border: 0px solid #000000;
+}
+
+tfoot {
+  border: 0px solid #1A1A1A;
+}

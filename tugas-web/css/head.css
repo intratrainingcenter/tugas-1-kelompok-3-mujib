@@ -1,0 +1,35 @@
+.header {
+  width: 99.3%;
+  height: 184px;
+  margin: 0px auto 0px auto;
+  border: 5px solid #000000;
+  background-color: #1A1A1A;
+}
+
+.hgambar img {
+  float: left;
+  width: 100px;
+  height: 100px;
+  margin: 20px 0px auto 60px;
+  background-color: white;
+}
+
+.judul {
+  /* width: 940px; */
+  /* height: 130px; */
+  margin: 40px 0px 60px 175px;
+}
+
+.ajudul {
+  font-family: "SHOWCARD GOTHIC";
+  font-size: 40px;
+  margin: 0px;
+  color: red;
+}
+
+.bjudul {
+  font-family: "Arial";
+  font-size: 15px;
+  margin: 10px 0px 0px 48px;
+  color: white;
+}
